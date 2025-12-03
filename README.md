@@ -3,14 +3,14 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=netlify)](https://fascinating-kringle-3cd555.netlify.app/inicio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kmilo-fullstack/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/bichozx)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kmilo2021@outlook.com)
 
 **Fullstack Developer con 4+ años de experiencia construyendo aplicaciones escalables**  
 Especializado en React, Node.js y arquitecturas cloud
 
-[Ver Portafolio](https://fascinating-kringle-3cd555.netlify.app/inicio) • [Descargar CV](#) • [Contactar](mailto:tu-email@ejemplo.com)
+[Ver Portafolio](https://fascinating-kringle-3cd555.netlify.app/inicio) • [Descargar CV](#) • [Contactar](mailto:kmilo2021@outlook.com)
 
 </div>
 
@@ -149,33 +149,7 @@ React • React Hooks • Node.js • Azure • Ant Design • REST APIs • Git
 
 ---
 
-## 🚀 Instalación Local
 
-Si quieres explorar el código de mi portafolio localmente:
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/bichozx/portafolio.git
-
-# Navegar al directorio
-cd portafolio
-
-# Instalar dependencias
-npm install
-
-# Iniciar servidor de desarrollo
-npm start
-
-# Abrir http://localhost:3000 en tu navegador
-```
-
----
-
-## 📝 Licencia
-
-Este proyecto es de código abierto bajo la licencia MIT.
-
----
 
 <div align="center">
 
