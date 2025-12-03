@@ -124,13 +124,8 @@ React • React Hooks • Node.js • Azure • Ant Design • REST APIs • Git
 
 ## 🎓 Educación & Certificaciones
 
-**🎓 [Tu Título Universitario]**  
-*[Universidad] • [Año de graduación]*
-
-**📜 Certificaciones:**
-- [ ] Azure Fundamentals (AZ-900) *(si la tienes)*
-- [ ] React Developer Certification *(si la tienes)*
-- [ ] Node.js Certification *(si la tienes)*
+**🎓 tecnica en desarrollo de software**  
+*CESDE •*
 
 ---
 
@@ -140,10 +135,10 @@ React • React Hooks • Node.js • Azure • Ant Design • REST APIs • Git
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-tu--email@ejemplo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Camilo_Giraldo-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-tu--email@ejemplo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmilo2021@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Camilo_Giraldo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kmilo-fullstack/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-brightgreen?style=for-the-badge&logo=netlify)](https://fascinating-kringle-3cd555.netlify.app/inicio)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/tu-numero)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3104436590)
 
 </div>
 
