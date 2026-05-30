@@ -1,157 +1,134 @@
-# 👋 Juan Camilo Giraldo | Fullstack Developer
+# Juan Camilo Giraldo Agudelo
+**Senior Fullstack Developer** · TypeScript · React  · NestJS · Next.js · Node.js · Docker
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=netlify)](https://fascinating-kringle-3cd555.netlify.app/inicio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kmilo-fullstack/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/bichozx)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kmilo2021@outlook.com)
-
-**Fullstack Developer con 4+ años de experiencia construyendo aplicaciones escalables**  
-Especializado en React, Node.js y arquitecturas cloud
-
-[Ver Portafolio](https://fascinating-kringle-3cd555.netlify.app/inicio) • [Descargar CV](#) • [Contactar](mailto:kmilo2021@outlook.com)
-
-</div>
+[![Portafolio](https://img.shields.io/badge/Portafolio-Live-0A66C2?style=flat-square&logo=netlify&logoColor=white)](https://kmilosolution.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kmilo--fullstack-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kmilo-fullstack/)
+[![Email](https://img.shields.io/badge/Email-kmilo2021@outlook.com-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:kmilo2021@outlook.com)
+[![Disponible](https://img.shields.io/badge/Estado-Disponible_para_remoto-22c55e?style=flat-square)](https://www.linkedin.com/in/kmilo-fullstack/)
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre mí
 
-Desarrollador Fullstack con **4 años de experiencia** en Petrtoprix, donde contribuí al desarrollo de **Hello Auto**, una plataforma líder en seguros automotrices. Especializado en crear soluciones eficientes y escalables que mejoran la experiencia del usuario y optimizan procesos de negocio.
+Desarrollador Fullstack Senior con **más de 5 años de experiencia** construyendo aplicaciones web de producción. Durante 4 años trabajé de forma **100% remota** para **Grupo Petroprix** (España), donde fui parte del equipo que desarrolló **Hello Auto**, plataforma líder en seguros automotrices en el mercado español.
 
-💼 **Actualmente:** Abierto a oportunidades Fullstack (híbrido/remoto)  
-📍 **Ubicación:** Medellín, Colombia  
-🎯 **Intereses:** Arquitecturas escalables, UX/UI, DevOps, Clean Code
+Me especializo en el diseño de **APIs REST escalables**, arquitecturas limpias con **NestJS**, y optimización de frontend con **Next.js App Router**. Con resultados concretos:
+
+- 📉 Reducción del **25% en tiempos de carga** (lazy loading + code splitting en Next.js)  
+- ⚙️ Mejora del **30% en eficiencia operativa** (refactorización hacia Clean Architecture)  
+- 🚀 Tiempo de despliegue de **2 horas → 15 minutos** (CI/CD en Azure DevOps + Docker)
+
+📍 Medellín, Colombia · Disponible inmediatamente · UTC-5 (flexible para equipos europeos)
 
 ---
 
-## 💻 Stack Tecnológico
+## Stack tecnológico
+
+### Lenguajes y runtimes
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_App_Router-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
+### Backend y arquitectura
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![Microservicios](https://img.shields.io/badge/Microservicios-FF6B35?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6366F1?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-7C3AED?style=flat-square)
 
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
+### Bases de datos
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-### Diseño & Herramientas
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![UX/UI](https://img.shields.io/badge/UX/UI-FF6B6B?style=flat)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
+### Cloud y DevOps
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
----
-
-## 🏆 Experiencia Destacada
-
-### **Fullstack Developer** | Petrtoprix (Hello Auto)
-*2020 - 2024 | 4 años*
-
-**Hello Auto** es una plataforma digital de seguros automotrices que revoluciona la forma en que los usuarios contratan y gestionan sus pólizas.
-
-#### 🎯 Logros Clave:
-- ⚡ **Optimicé el rendimiento** de la aplicación React reduciendo el tiempo de carga en un 40% mediante lazy loading y code splitting
-- 🎨 **Lideré la implementación** del sistema de diseño con Ant Design, mejorando la consistencia UI/UX en toda la plataforma
-- 🔧 **Desarrollé microservicios** en Node.js que procesan +10k transacciones diarias con 99.9% de uptime
-- ☁️ **Implementé CI/CD pipelines** en Azure DevOps, reduciendo el tiempo de deployment de 2 horas a 15 minutos
-- 👥 **Colaboré activamente** con equipos de diseño y producto utilizando metodologías ágiles (Scrum)
-
-#### 🛠️ Stack Utilizado:
-React • React Hooks • Node.js • Azure • Ant Design • REST APIs • Git • Figma
+### Testing y metodologías
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-## 🎨 Proyectos Destacados
+## Experiencia profesional
 
-### 🌐 **Portafolio Personal Profesional**
-> Sitio web moderno y responsivo construido para mostrar mi trabajo y habilidades
+### Grupo PETROPRIX — Senior Fullstack Developer
+**Andalucía, España · Remoto · Feb 2021 – Ene 2025**
 
-[![Ver Demo](https://img.shields.io/badge/🔗_Ver_Demo-Live-success?style=flat)](https://fascinating-kringle-3cd555.netlify.app/inicio)
-[![Código](https://img.shields.io/badge/<//>_Código-GitHub-black?style=flat)](https://github.com/bichozx/portafolio)
+Contribuí al desarrollo de **Hello Auto**, plataforma digital de seguros automotrices con +10,000 dispositivos IoT activos y procesamiento de datos en tiempo real.
 
-**Características:**
-- ✨ Diseño moderno y minimalista con Tailwind CSS
-- 📱 100% responsivo (móvil, tablet, desktop)
-- 📧 Formulario de contacto integrado con Netlify Forms
-- ⚡ Navegación fluida con React Router
-- 🎯 Optimizado para conversión de leads
+| Logro | Impacto |
+|---|---|
+| Optimización de renderizado en Next.js | −25% en tiempos de carga |
+| Refactorización a Clean Architecture | +30% en eficiencia operativa |
+| Implementación de CI/CD (Azure + Docker) | Despliegue: 2h → 15 min |
+| APIs REST con NestJS + MongoDB | Procesamiento de +10K transacciones/día |
 
-**Tech Stack:** React.js, Tailwind CSS, React Router, Netlify
-
----
-
-### 🚗 **Hello Auto - Plataforma de Seguros** *(Experiencia Profesional)*
-> Sistema completo para cotización, contratación y gestión de seguros automotrices
-
-**Impacto:**
-- 📈 Procesamiento de +10,000 cotizaciones mensuales
-- 💰 Contribución al crecimiento del 150% en conversión de leads
-- ⭐ Mejora en la satisfacción del usuario (NPS +25 puntos)
-
-**Responsabilidades:**
-- Desarrollo de interfaces con React y Ant Design
-- Construcción de APIs RESTful con Node.js
-- Integración con servicios de Azure
-- Implementación de pruebas unitarias y E2E
-- Colaboración en diseño UX/UI
-
-**Tech Stack:** React, React Hooks, Node.js, Azure, Ant Design, Express, MongoDB
+**Stack:** TypeScript · React · NestJS · Next.js · MongoDB · Azure DevOps · Docker · Kubernetes
 
 ---
 
-## 📊 GitHub Stats
+### Prosegur — Fullstack Developer
+**Medellín, Colombia · Jul 2019 – Dic 2020**
+
+Desarrollo de herramientas de automatización interna con Node.js + SQL Server, logrando −15% en tiempos de resolución de incidencias técnicas.
+
+---
+
+## Proyectos
+
+> ⚠️ **En construcción activa.** Próximamente: agente de IA con MongoDB + NestJS, y dashboard SaaS con autenticación multi-tenant.
+
+### Portafolio personal
+Sitio construido con React + Tailwind CSS, 100% responsivo, con formulario de contacto integrado.  
+→ [Ver demo](https://kmilosolution.netlify.app) · [Código](https://github.com/bichozx/portafolio)
+
+---
+
+## Formación y certificaciones
+
+- **Tecnología en Sistemas** · Institución Universitaria Salazar y Herrera
+- **Técnico en Desarrollo de Software** · CESDE
+- Next.js Avanzado: App Router, Server Actions y Optimización de Renderizado *(2025–2026)*
+- Creación de Agentes de IA con MongoDB *(2025)*
+- Clean Architecture para Desarrollo de Software
+- DevOps y Cloud con Azure DevOps, App Service y Pipelines
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bichozx&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bichozx&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bichozx&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bichozx&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
 
 ---
 
-## 🎓 Educación & Certificaciones
+## Contacto
 
-**🎓 tecnica en desarrollo de software**  
-*CESDE •*
+Si tienes un proyecto o una posición remota que encaje con mi perfil, escríbeme directamente:
 
----
-
-## 📫 Contacto
-
-¿Tienes un proyecto interesante o una oportunidad laboral? ¡Hablemos!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-tu--email@ejemplo.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmilo2021@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Camilo_Giraldo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kmilo-fullstack/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-brightgreen?style=for-the-badge&logo=netlify)](https://fascinating-kringle-3cd555.netlify.app/inicio)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3104436590)
-
-</div>
+- **Email:** [kmilo2021@outlook.com](mailto:kmilo2021@outlook.com)
+- **LinkedIn:** [linkedin.com/in/kmilo-fullstack](https://www.linkedin.com/in/kmilo-fullstack/)
+- **Portafolio:** [kmilosolution.netlify.app](https://kmilosolution.netlify.app)
+- **WhatsApp:** [+57 310 443 6590](https://wa.me/573104436590)
 
 ---
 
-
-
-<div align="center">
-
-**💡 "El código limpio no se escribe siguiendo un conjunto de reglas. Se escribe siguiendo principios que te llevan a la simplicidad."**
-
-⭐ Si te gusta mi trabajo, no dudes en darle una estrella al repo
-
-**Hecho con ❤️ por Juan Camilo Giraldo**
-
-</div>
+<sub>Medellín, Colombia · Disponible para trabajo remoto · Zona horaria UTC-5 (compatible con equipos en España y Europa)</sub>
