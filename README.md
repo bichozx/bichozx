@@ -10,7 +10,7 @@
 
 ## Sobre mí
 
-Desarrollador Fullstack Senior con **más de 5 años de experiencia** construyendo aplicaciones web de producción. Durante 4 años trabajé de forma **100% remota** para **Grupo Petroprix** (España), donde fui parte del equipo que desarrolló **Hello Auto**, plataforma líder en seguros automotrices en el mercado español.
+Desarrollador Fullstack Senior con **más de 5 años de experiencia** construyendo aplicaciones web de producción. Durante 4 años trabajé de forma **100% remota** para **Grupo Petroprix** (España).
 
 Me especializo en el diseño de **APIs REST escalables**, arquitecturas limpias con **NestJS**, y optimización de frontend con **Next.js App Router**. Con resultados concretos:
 
@@ -29,6 +29,7 @@ Me especializo en el diseño de **APIs REST escalables**, arquitecturas limpias 
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js_App_Router-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -43,6 +44,7 @@ Me especializo en el diseño de **APIs REST escalables**, arquitecturas limpias 
 ![Microservicios](https://img.shields.io/badge/Microservicios-FF6B35?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6366F1?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-7C3AED?style=flat-square)
+![Agentes IA](https://img.shields.io/badge/AI_Agents-FF6B9D?style=flat-square)
 
 ### Bases de datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -99,12 +101,41 @@ Sitio construido con React + Tailwind CSS, 100% responsivo, con formulario de co
 
 ## Formación y certificaciones
 
+### 🎓 Grados académicos
 - **Tecnología en Sistemas** · Institución Universitaria Salazar y Herrera
 - **Técnico en Desarrollo de Software** · CESDE
-- Next.js Avanzado: App Router, Server Actions y Optimización de Renderizado *(2025–2026)*
-- Creación de Agentes de IA con MongoDB *(2025)*
-- Clean Architecture para Desarrollo de Software
-- DevOps y Cloud con Azure DevOps, App Service y Pipelines
+
+### 🏆 Certificaciones profesionales
+
+#### **Inteligencia Artificial y Backend**
+
+| Certificación | Plataforma | Fecha | Credencial |
+|---|---|---|---|
+| **Construye un Agente de IA Real desde Cero con TypeScript** (Sin LangChain. Sin LangGraph. Solo tu código.) | Udemy | 2026 | [Verificar](https://www.udemy.com) |
+| Nest: Desarrollo Backend Escalable con Node | Udemy | Mar 2026 | UC-c40acffe-b4f1-4cf7-9188-d3cdb7a923a3 |
+| Node: De Cero a Experto | Udemy | Ene 2024 | UC-2449ae36-08-f4-4ae2-85bf-279d452101 |
+| Curso de Crear Agentes de IA con MongoDB | Platzi | Oct 2025 | cd2a485f-6239-4d28-b9ad-316a7d69e58e |
+| Curso de MongoDB - Aprende bases de datos NoSQL + API NodeJS | Udemy | 2025 | [Verificar](https://www.udemy.com) |
+
+#### **DevOps, Cloud y CI/CD**
+
+| Certificación | Plataforma | Fecha | Credencial |
+|---|---|---|---|
+| DevOps Integral: Docker, Kubernetes, Jenkins, GitFlow CI/CD | Udemy | Mar 2026 | UC-ca122e6e-fa7f-4e2b-acf9-0817b66a5294 |
+| DevOps y Cloud con Azure DevOps, App Service, Pipelines y Git | Udemy | Mar 2026 | UC-30926567-1511-4d0b-b285-9ef91e0f25a0 |
+
+#### **Arquitectura y Desarrollo**
+
+| Certificación | Plataforma | Fecha | Credencial |
+|---|---|---|---|
+| Curso de Arquitecturas Limpias para Desarrollo de Software | Platzi | Dic 2025 | 21745539-4799-48dd-b708-4d3944d40bd0 |
+| Curso de TypeScript | Platzi | Dic 2025 | 950f30d1-5cdb-443c-a37b-39d58cc957e2 |
+
+#### **Ciencia de Datos**
+
+| Certificación | Plataforma | Fecha | Credencial |
+|---|---|---|---|
+| Curso de Python | Platzi | Sept 2025 | 52c6832f-3e2a-4b74-8771-37c91d789eec |
 
 ---
 
